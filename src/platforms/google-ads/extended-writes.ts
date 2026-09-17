@@ -30,6 +30,9 @@ const resources = {
   assetGroupAssetOperation: "assetGroupAssets",
   campaignAssetOperation: "campaignAssets",
   campaignCriterionOperation: "campaignCriteria",
+  sharedSetOperation: "sharedSets",
+  sharedCriterionOperation: "sharedCriteria",
+  campaignSharedSetOperation: "campaignSharedSets",
   adGroupCriterionOperation: "adGroupCriteria",
   assetGroupListingGroupFilterOperation: "assetGroupListingGroupFilters",
 } as const;
